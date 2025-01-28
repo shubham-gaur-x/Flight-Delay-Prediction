@@ -1,5 +1,5 @@
 
-# Flight Delay Prediction: Data Mining Project
+# Flight Delay Prediction
 
 ## Overview
 Flight delays pose significant challenges for the aviation industry, causing inconvenience to travelers and financial losses to airlines. 
